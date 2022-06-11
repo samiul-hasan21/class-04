@@ -1,0 +1,33 @@
+.p_style{
+    background-image:url(../img/R.png)
+   
+    
+}
+.p_style{
+   font-size:15px;
+   line-height: 1.5;
+   background-repeat: no-repeat;
+   text-transform: capitalize
+  
+}
+#world{
+    text-decoration:line-through;
+    
+}
+
+#best{
+    color: blueviolet;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration:underline;
+    text-decoration-style:double;
+    text-align:justify;
+    text-indent: 200px;
+    background-color: black;
+    
+    ;
+   
+    line-height: 1.5;
+    letter-spacing: 10px;
+    word-spacing: 50px;
+}
